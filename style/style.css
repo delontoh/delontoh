@@ -119,6 +119,12 @@ a {
     color: black;
 }
 
+.lead {
+    line-height: 40px;
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+}
+
 @media only screen and (min-width: 550px) {
 #skills {
     margin-top: 10px;
